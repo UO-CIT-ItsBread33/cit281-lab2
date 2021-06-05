@@ -17,6 +17,7 @@
 ### Outcome pics: 
 
 ![GitHubHangMan.png](GitHubHangMan.png)
+![hangman](hangman.png)
 
 ### [**Back to home page**](https://uo-cit-itsbread33.github.io/ItsBread33.github.io/)
 
